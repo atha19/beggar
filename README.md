@@ -1,0 +1,2 @@
+# beggar
+tea testnet
